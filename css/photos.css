@@ -1,0 +1,28 @@
+.item{
+    width: 24%;
+    display: inline-block;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100px;
+}
+
+.item h4{
+    text-align: center;
+    color: dodgerblue;
+}
+   
+.parent{
+    text-align: center;
+    display: inline-block;
+}
+
+.parent2{
+    text-align: center;
+    display: inline-block;
+}
+
+img{
+    width: 100%; 
+    /* filter: drop-shadow(5px 5px gray);   */
+}  
